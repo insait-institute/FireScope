@@ -5,9 +5,11 @@ Official code repository for the paper:
 **FireScope: Wildfire Risk Prediction with a Chain-of-Thought Oracle**\
 Accepted to **CVPR 2026**
 
-📄 Paper: https://arxiv.org/abs/2511.17171\
+📄 Paper: https://arxiv.org/abs/2511.17171
 🤗 Dataset:
 https://huggingface.co/datasets/INSAIT-Institute/FireScope-Bench
+🔥 Website:
+www.firescope.ai
 
 ------------------------------------------------------------------------
 
