@@ -1,8 +1,8 @@
-# FireScope: Wildfire Risk Prediction with a Chain-of-Thought Oracle
+# FireScope: Wildfire Risk Raster Prediction with a Chain-of-Thought Oracle
 
 Official code repository for the paper:
 
-**FireScope: Wildfire Risk Prediction with a Chain-of-Thought Oracle**\
+**FireScope: Wildfire Risk Raster Prediction with a Chain-of-Thought Oracle**\
 Accepted to **CVPR 2026**
 
 📄 Paper: https://arxiv.org/abs/2511.17171
@@ -15,7 +15,7 @@ www.firescope.ai
 
 ## Overview
 
-FireScope introduces a framework for **wildfire risk prediction** that
+FireScope introduces a framework for **wildfire risk raster prediction** that
 leverages **Chain-of-Thought (CoT) reasoning via an Oracle model** to
 improve predictive performance and interpretability.
 
@@ -92,7 +92,7 @@ If you find this work useful in your research, please cite:
 
 ``` bibtex
 @article{markov2025firescope,
-  title={FireScope: Wildfire Risk Prediction with a Chain-of-Thought Oracle},
+  title={FireScope: Wildfire Risk Raster Prediction with a Chain-of-Thought Oracle},
   author={Markov, Mario and Ailuro, Stefan Maria and Van Gool, Luc and Schindler, Konrad and Paudel, Danda Pani},
   journal={arXiv preprint arXiv:2511.17171},
   year={2025}
